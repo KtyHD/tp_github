@@ -1,0 +1,53 @@
+body
+{
+	font-family:arial, 'sans-serif';
+	font-size: 1.2em;
+	background-image: url("fond.PNG");
+	background-repeat: repeat-x;
+}
+
+h1
+{
+	text-align: center;
+	text-shadow: 6px 6px 6px #a1afde;
+}
+
+#intro
+{
+	font-style: italic;
+	text-align: center;
+}
+
+img
+{
+	float: right;
+}
+
+#alignement
+{
+	clear: both;
+}
+
+h2
+{
+	color: #5bc5dc;
+	border-left: 1px #69699d groove;
+	border-bottom: 1px #69699d groove;
+	border-radius: 10px;
+	box-shadow: 4px 4px 6px #a1afde;
+}
+
+a
+{
+	color:yellow;
+}
+
+a:hover
+{
+	color:orange;
+}
+
+a:visited
+{
+	color:pink;
+}
